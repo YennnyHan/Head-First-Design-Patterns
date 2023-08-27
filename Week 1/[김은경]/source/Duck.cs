@@ -2,8 +2,8 @@ using UnityEngine;
 
 public abstract class Duck
 {
-    protected FlyBehavior flyBehavior;
-    protected QuackBehavior quackBehavior;
+    protected IFlyBehavior flyBehavior;
+    protected IQuackBehavior quackBehavior;
 
     public Duck()
     {
@@ -12,12 +12,12 @@ public abstract class Duck
 
     public abstract void Display();
 
-    public void SetFlyBehavior(FlyBehavior fb)
+    public void SetFlyBehavior(IFlyBehavior fb)
     {
         flyBehavior = fb;
     }
 
-    public void SetQuackBehavior(QuackBehavior qb)
+    public void SetQuackBehavior(IQuackBehavior qb)
     {
         quackBehavior = qb;
     }

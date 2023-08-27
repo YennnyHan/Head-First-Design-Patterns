@@ -1,11 +1,11 @@
 using UnityEngine;
 
-public interface FlyBehavior
+public interface IFlyBehavior
 {
     public void Fly();
 }
 
-public class FlyWithWings : FlyBehavior
+public class FlyWithWings : IFlyBehavior
 {
     public void Fly()
     {
@@ -13,7 +13,7 @@ public class FlyWithWings : FlyBehavior
     }
 }
 
-public class FlyNoWay : FlyBehavior
+public class FlyNoWay : IFlyBehavior
 {
     public void Fly()
     {
@@ -21,7 +21,7 @@ public class FlyNoWay : FlyBehavior
     }
 }
 
-public class FlyRocketPowered : FlyBehavior
+public class FlyRocketPowered : IFlyBehavior
 {
     public void Fly()
     {
