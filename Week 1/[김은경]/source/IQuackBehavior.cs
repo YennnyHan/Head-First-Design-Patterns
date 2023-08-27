@@ -1,11 +1,11 @@
 using UnityEngine;
 
-public interface QuackBehavior
+public interface IQuackBehavior
 {
     public void Quack();
 }
 
-public class DefaultQuack : QuackBehavior
+public class DefaultQuack : IQuackBehavior
 {
     public void Quack()
     {
@@ -13,7 +13,7 @@ public class DefaultQuack : QuackBehavior
     }
 }
 
-public class MuteQuack : QuackBehavior
+public class MuteQuack : IQuackBehavior
 {
     public void Quack()
     {
@@ -21,7 +21,7 @@ public class MuteQuack : QuackBehavior
     }
 }
 
-public class Squeak : QuackBehavior
+public class Squeak : IQuackBehavior
 {
     public void Quack()
     {
