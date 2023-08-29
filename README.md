@@ -21,7 +21,7 @@
 한예진 ([@YennnyHan](https://github.com/YennnyHan))<br>
 김은경 ([@EKKimm](https://github.com/EKKimm))<br>
 박영범 ([@pandion5](https://github.com/pandion5))<br>
-양원석 ([@yesman9692](https://github.com/yesman9692))<br>
+양원석 ([@yesman9692](https://github.com/yesman9692))<br>
 유용희 ([@jounis23](https://github.com/jounis23))<br>
 지현규 ([@HyeonQ](https://github.com/HyeonGyuChi))<br>
 
