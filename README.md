@@ -23,7 +23,7 @@
 박영범 ([@pandion5](https://github.com/pandion5))<br>
 양원석 <br>
 유용희 ([@jounis23](https://github.com/jounis23))<br>
-지현규 <br>
+지현규 ([@HyeonQ](https://github.com/HyeonGyuChi))<br>
 
 ## 스터디 진행 방식
 - 챕터 당 3명 나누어 정리 파일 작성하기 (사다리 타기)
