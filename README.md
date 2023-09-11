@@ -14,21 +14,21 @@
 | 회차 | 날짜 | 진도 |
 |:--|:--|:--|
 |1회차|8월 29일|1 : 김은경/유용희/한예진<br>2: 박영범/양원석/지현규|
-|2회차|9월 5일||
+|2회차|9월 5일|3 : 박영범/유용희/한예진<br>4: 김은경/양원석/지현규|
 |3회차|9월 12일||
 
 ## 스터디 참여자
 한예진 ([@YennnyHan](https://github.com/YennnyHan))<br>
 김은경 ([@EKKimm](https://github.com/EKKimm))<br>
 박영범 ([@pandion5](https://github.com/pandion5))<br>
-양원석 <br>
+양원석 ([@yesman9692](https://github.com/yesman9692))<br>
 유용희 ([@jounis23](https://github.com/jounis23))<br>
 지현규 ([@HyeonQ](https://github.com/HyeonGyuChi))<br>
 
 ## 스터디 진행 방식
 - 챕터 당 3명 나누어 정리 파일 작성하기 (사다리 타기)
   - eg) 1장 2명, 2장 3명 -> 본인 파트 아닌 곳은 정리하지 않아도 좋지만 꼭 읽어오기 ^____^
-- 진행하면서 확인해야겠지만 우선 6명 돌아가면서 발표 (시간이 너무 소요되면 각 파트별로 1명씩 랜덤 발표)
+- 각 파트별로 1명씩 랜덤 발표
 - 3명이상 불참하는 주는 보강일 or 다음주 넘김
 
 ## git 및 마크다운
