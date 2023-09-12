@@ -13,15 +13,15 @@
 
 | 회차 | 날짜 | 진도 |
 |:--|:--|:--|
-|1회차|8월 29일|1 : 김은경/유용희/한예진<br>2: 박영범/양원석/지현규|
-|2회차|9월 5일|3 : 박영범/유용희/한예진<br>4: 김은경/양원석/지현규|
-|3회차|9월 12일||
+|1회차|8월 29일|1 : 김은경/유용희/한예진<br>2 : 박영범/양원석/지현규|
+|2회차|9월 12일|3 : 박영범/유용희/한예진<br>4 : 김은경/양원석/지현규|
+|3회차|9월 19일|5 : 김은경/지현규/한예진<br>6 : 박영범/양원석/유용희|
 
 ## 스터디 참여자
 한예진 ([@YennnyHan](https://github.com/YennnyHan))<br>
 김은경 ([@EKKimm](https://github.com/EKKimm))<br>
 박영범 ([@pandion5](https://github.com/pandion5))<br>
-양원석 ([@yesman9692](https://github.com/yesman9692))<br>
+양원석 ([@yesman9692](https://github.com/yesman9692))<br>
 유용희 ([@jounis23](https://github.com/jounis23))<br>
 지현규 ([@HyeonQ](https://github.com/HyeonGyuChi))<br>
 
